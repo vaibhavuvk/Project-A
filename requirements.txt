@@ -4,3 +4,4 @@ openpyxl
 requests
 pyotp
 logzero
+websocket-client
